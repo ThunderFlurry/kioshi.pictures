@@ -1,7 +1,7 @@
 <a href="https://kioshi.pictures"><img alt="kioshi" src="https://avatars3.githubusercontent.com/u/5122906?v=3&s=460" width="200"></a>
 
 [ ![Codeship Status for cscawley/kioshi.pictures](https://codeship.com/projects/48db1d90-8db3-0133-1c12-36bb56d5ce1e/status?branch=kioshi-pictures)](https://codeship.com/projects/124056)
-[![Dependency Status](https://david-dm.org/cscawley/kioshi.pictures.svg)](https://david-dm.org/cscawley/kioshi.pictures)
+[![Dependency Status](https://david-dm.org/ampelos/kioshi.pictures.svg)](https://david-dm.org/ampelos/kioshi.pictures)
 
 ## Kioshi is powered by Este:
 
