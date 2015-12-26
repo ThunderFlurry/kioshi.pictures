@@ -3,12 +3,14 @@
 [ ![Codeship Status for cscawley/kioshi.pictures](https://codeship.com/projects/48db1d90-8db3-0133-1c12-36bb56d5ce1e/status?branch=kioshi-pictures)](https://codeship.com/projects/124056)
 [![Dependency Status](https://david-dm.org/cscawley/kioshi.pictures.svg)](https://david-dm.org/cscawley/kioshi.pictures)
 
+## Kioshi is powered by Este:
+
 > The best dev stack and starter kit for React universal web apps.
 
-> Forget about [evil frameworks](http://tomasp.net/blog/2015/library-frameworks/), use laser focused libraries and design patterns instead.
+> The [anti framework](http://tomasp.net/blog/2015/library-frameworks/), opting to concentrate on laser focused libraries and design patterns.
 
-## Prerequisites
-
+## Requirements
+- [nvm](https://github.com/creationix/nvm) (recommended for development).
 - [node.js](http://nodejs.org) (v5 is recommended).
 - [gulp](http://gulpjs.com/) (`npm install -g gulp`)
 
