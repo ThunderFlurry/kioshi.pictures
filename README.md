@@ -1,10 +1,7 @@
 <a href="https://este.herokuapp.com/"><img alt="Este.js" src="https://cloud.githubusercontent.com/assets/66249/6515265/b91f0fb8-c388-11e4-857e-c90902e0b7a1.png" width="200"></a>
 
-[![Codeship](https://codeship.com/projects/48db1d90-8db3-0133-1c12-36bb56d5ce1e/status?branch=kioshi-pictures
-)
-[![Join the chat at https://gitter.im/este/este](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/este/este)
-[![Dependency Status](https://david-dm.org/este/este.svg)](https://david-dm.org/este/este)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[ ![Codeship Status for cscawley/kioshi.pictures](https://codeship.com/projects/48db1d90-8db3-0133-1c12-36bb56d5ce1e/status?branch=master)](https://codeship.com/projects/124056)
+[![Dependency Status](https://david-dm.org/cscawley/kioshi.pictures.svg)](https://david-dm.org/cscawley/kioshi.pictures)
 
 > The best dev stack and starter kit for React universal web apps.
 

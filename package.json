@@ -1,9 +1,10 @@
 {
-  "name": "Este",
+  "name": "Este Kioshi Pictures",
   "authors": [
-    "Daniel Steigerwald"
+    "Daniel Steigerwald",
+    "Chris Cawley"
   ],
-  "description": "Dev stack and starter kit for React universal web apps",
+  "description": "Film company webapp using the Este Dev stack",
   "private": true,
   "scripts": {
     "postinstall": "gulp build --production",
