@@ -27,9 +27,9 @@ class App extends Component {
         <Helmet
           meta={[{
             name: 'description',
-            content: 'Dev stack and starter kit for functional and universal React web apps'
+            content: 'Kioshi Pictures is a film company'
           }]}
-          titleTemplate="%s - Este.js"
+          titleTemplate="%s - Kioshi Pictures"
         />
         {/* Pathname enforces rerender so activeClassName is updated. */}
         <Header msg={msg} pathname={pathname} viewer={viewer} />
