@@ -1,13 +1,14 @@
 export default {
   app: {
     footer: {
-      madeByHtml: 'made by <a href="https://twitter.com/steida">steida</a>'
+      madeByHtml: 'made by <a href="https://twitter.com/steida">Kioshi Pictures</a>'
     },
     links: {
       home: 'Home',
       login: 'Login',
       me: 'Me (protected)',
-      todos: 'Todos'
+      todos: 'Todos',
+      screenplay: 'screenplay'
     }
   },
   auth: {
@@ -46,6 +47,33 @@ export default {
     infoHtml: '<a href="https://github.com/este/este">Este.js</a> dev stack.',
     iosInfoText: `Este.js dev stack.\n\nOpen left menu and check todos!\n\nPress CMD+R to reload.\nPress CMD+D for debug menu.`,
     title: 'Este.js',
+    toCheck: {
+      andMuchMore: 'And much more :-)',
+      h2: 'Things to Check',
+      isomorphicPage: 'Isomorphic page',
+      // This is example of localized ordered list.
+      list: [
+        {
+          key: 'source',
+          text: 'Server rendering'
+        },
+        {
+          key: 'development',
+          text: 'Hot reload for styles, components, etc.'
+        },
+        {
+          key: 'production',
+          text: 'Performance and size of production build (<code>gulp -p</code>)'
+        }
+      ]
+    }
+  },
+  screenplay: {
+    // // TODO: Android text.
+    // androidInfoText: ``,
+    infoHtml: '<a href="https://github.com/este/este">Este.js</a> dev stack.',
+    iosInfoText: `Este.js dev stack.\n\nOpen left menu and check todos!\n\nPress CMD+R to reload.\nPress CMD+D for debug menu.`,
+    title: 'Kioshi',
     toCheck: {
       andMuchMore: 'And much more :-)',
       h2: 'Things to Check',

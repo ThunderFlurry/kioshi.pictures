@@ -8,7 +8,7 @@ export default class Html extends Component {
     googleAnalyticsId: PropTypes.string.isRequired,
     helmet: PropTypes.object.isRequired,
     isProduction: PropTypes.bool.isRequired,
-  }
+  };
 
   render() {
     const {
