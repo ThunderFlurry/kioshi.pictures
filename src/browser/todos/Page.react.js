@@ -6,6 +6,7 @@ import NewTodo from './NewTodo.react';
 import React, {PropTypes} from 'react';
 import fetch from '../components/fetch';
 import {fetchUserTodos} from '../../common/todos/actions';
+import RaisedButton from 'material-ui/lib/raised-button';
 
 class Page extends Component {
 
@@ -17,7 +18,7 @@ class Page extends Component {
 
   render() {
     const {actions, msg: {todos: msg}, todos: {map, newTodo}} = this.props;
-
+    
     return (
       <div className="todos-page">
         <Helmet title={msg.title} />
@@ -27,6 +28,7 @@ class Page extends Component {
       </div>
     );
   }
+
 
 }
 

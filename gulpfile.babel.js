@@ -105,3 +105,13 @@ gulp.task('clear-react-packager-cache', () => {
     console.log('No cache files found!');
   }
 });
+
+gulp.task('sass', function () {
+  return gulp.src('assets/css/sass/**/*.scss')
+    .pipe(sass().on('error', sass.logError))
+    .pipe(gulp.dest('assets/css'));
+});
+ 
+gulp.task('sass:watch', function () {
+  gulp.watch('assets/css/sass/**/*.scss', ['sass']);
+});

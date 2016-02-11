@@ -8,6 +8,7 @@ import RouterHandler from '../../common/components/RouterHandler.react';
 import mapDispatchToProps from '../../common/app/mapDispatchToProps';
 import mapStateToProps from '../../common/app/mapStateToProps';
 import {connect} from 'react-redux';
+import injectTapEventPlugin from 'react-tap-event-plugin';
 
 class App extends Component {
 
