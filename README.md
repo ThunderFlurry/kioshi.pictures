@@ -5,6 +5,8 @@
 
 ## Kioshi is powered by Este:
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ThunderFlurry/kioshi.pictures.svg)](https://greenkeeper.io/)
+
 > The best dev stack and starter kit for React universal web apps.
 
 > The [anti framework](http://tomasp.net/blog/2015/library-frameworks/), opting to concentrate on laser focused libraries and design patterns.
